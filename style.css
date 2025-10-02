@@ -5,11 +5,11 @@ Color: #191970;
 }
 .kartu-profil img{
   width: 150px;
-  border-radius:50%;
+  border-radius: 50%;
       }
 .kartu-profil {
   width: 300px;
-  margine:50px auto;
+  margin: 50px auto;
   padding: 20px;
   background-color: white;
   border-radius: 15px;
